@@ -47,7 +47,7 @@
   }
 
   // ns-params:@params
-  var wcDarkLightEnabled = false;
+  var wcDarkLightEnabled = true;
   var wcIsSiteThemeDark = false;
 
   // js/wowchemy-init.js
