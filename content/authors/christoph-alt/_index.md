@@ -6,7 +6,7 @@ title: Christoph Alt
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
