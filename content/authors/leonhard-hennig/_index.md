@@ -21,9 +21,10 @@ organizations:
 bio: 
 
 # List each interest with a dash
-#interests:
-#- Interest 1
-#- Interest 2
+interests:
+- Information Extraction
+- Summarization
+- Low-Resource Learning
 
 #education:
 #  courses:
@@ -71,3 +72,4 @@ user_groups:
 # for filtering in portfolio widget
 tags: [Researchers]
 ---
+I'm a senior researcher and project manager at the DFKI Speech & Language Technology Lab. I'm interested in applying machine learning techniques to computational linguistics problems, such as information extraction and summarization, and making these work on real-world, domain-specific, noisy data in low-resource settings, where little or no language resources are readily available. As a project lead, I've managed various national research projects, such as Smart Data Web, PLASS, DAYSTREAM, and the DFKI part in the Berlin Big Data Center, as well as industry-funded projects, e.g. for Deutsche Telekom and Lenovo.
