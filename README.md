@@ -1,37 +1,52 @@
-# Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
+# How-To
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+First, install Hugo (https://gohugo.io/):
+```bash
+wget https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_extended_0.59.1_Linux-64bit.tar.gz
+tar -xvf hugo_extended_0.59.1_Linux-64bit.tar.gz
+sudo mv hugo /usr/local/bin/
+```
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 5 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+Clone the website repo:
+```bash
+git clone git@github.com:DFKI-NLP/dfki-nlp.github.io.git
+```
 
-_[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs._
+Init all submodules in the repo:
+```bash
+cd dfki-nlp.github.io
+git submodule update --init --recursive
+```
 
-- 👉 [**Get Started**](https://wowchemy.com/templates/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
+Serve the website locally (reachable at http://localhost:1313/):
+```bash
+hugo server
+```
 
-## Crowd-funded open-source software
+## Add a publication
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Assuming that we are in the top-level directory, create a new publication entry:
+```bash
+hugo new --kind publication publication/<my-publication>
+```
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+Go to `content > publication > <my-publication>` and edit `index.md`.
+Here is an example: https://raw.githubusercontent.com/DFKI-NLP/dfki-nlp.github.io/src/content/publication/Fine-tuning-Pre-Trained-Transformer-Language-Models-to-Distantly-Supervised-Relation-Extraction/index.md
 
-## Ecosystem
+If you add a file called `cite.bib` with a bibtex entry, hugo will create a cite button.
+File (e.g. poster) can be added to the directory and linked to a "poster" button (see example).
+Links to the paper and/or demo can be added as well.
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/):** Automatically import publications from BibTeX
+More details can be found here: https://sourcethemes.com/academic/docs/managing-content/#manually
+There is also a way to automatically create a publication from bibtex but it did not work for me: https://sourcethemes.com/academic/docs/managing-content/#automatically
 
-[![Screenshot](./preview.png)](https://wowchemy.com/templates/)
+## Publish Website
 
-## Demo Credits
+To publish your changes, add and commit all your changes (make sure the website looks as expected with hugo server):
+```bash
+git commit -m "Added my latest NeurIPS publication"
+git push origin src
+```
 
-Please replace the demo images with your own.
-
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-research-group/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+IMPORTANT: Only push to the master branch!
+The repository contains a Github action that automatically builds and publishes the static page to the "gh-pages" branch.

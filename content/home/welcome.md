@@ -24,3 +24,5 @@ The research in Cora4NLP aims to address these challenges. It builds on the expe
 - reasoning over broader co- and contexts
 - efficient adaptation to novel and/or low resource contexts
 - continual adaptation to, and generalization over, evolving contexts
+
+Cora4NLP is funded by the German Federal Ministry of Education and Research (BMBF) under funding code 01IW20010.
