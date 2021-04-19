@@ -3,11 +3,11 @@
 
 title: "Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data"
 authors: [N. Rethmeier, I. Augenstein]
-date: 2021-03-15T00:00:00+00:00
+date: 2020-10-21T00:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-03-15T00:00:00+00:00
+publishDate: 2020-10-21T00:00:00+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
