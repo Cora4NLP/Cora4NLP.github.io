@@ -1,6 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+
+
+
+
+
 title: "Probing Word Translations in the Transformer and Trading Decoder for Encoder Layers"
 authors: [Hongfei Xu, Josef van Genabith, Qiuhui Liu, Deyi Xiong]
 date: 2021-04-01T00:00:00+00:00
@@ -35,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""
+url_pdf: "https://aclanthology.org/2021.naacl-main.7.pdf"
 url_code:
 url_dataset:
 url_poster:
