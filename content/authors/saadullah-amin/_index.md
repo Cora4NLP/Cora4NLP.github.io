@@ -38,9 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:saadullah.aim@dfki.de"  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/saadullahamin
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=QoLMv60AAAAJ&hl=en
