@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 I am a postdoctoral (senior) researcher at the [German Research Center for AI (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin. My goal is to solve complex natural language understanding problems with limited (labeled) data, e.g., via transfer-learning, multi-task learning, few- and zero-shot learning.
