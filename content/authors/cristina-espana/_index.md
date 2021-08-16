@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Cristina España i Bonet
+title: "Cristina España i Bonet"
 
 # Username (this should match the folder name and the name on publications)
 authors:
