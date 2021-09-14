@@ -69,5 +69,5 @@ user_groups:
 - Researchers 
 
 # for filtering in portfolio widget
-tags: [Principal Investigators]
+tags: [Researchers]
 ---
