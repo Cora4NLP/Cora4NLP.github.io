@@ -17,8 +17,8 @@ organizations:
 bio:
 
 # List each interest with a dash
-#interests:
-- Unsupervised/Semi-Supervised Machine Comprehension
+interests:
+- Unsupervised / Semi-Supervised Machine Comprehension
 - Question Generation
 - Question Answering 
 
