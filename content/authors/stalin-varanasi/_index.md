@@ -49,8 +49,8 @@ social:
   link: https://github.com/stalvars
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
+# - icon: cv
+#  icon_pack: ai
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "stalin.varanasi@dfki.de"
