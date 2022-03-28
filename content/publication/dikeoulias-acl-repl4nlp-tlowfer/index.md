@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 7th Workshop on Representation Learning for NLP"
-publication_short: "ACL-REPL4NLP 2022"
+publication_short: "ACL-RepL4NLP 2022"
 
 abstract: "Temporal knowledge graph completion (TKGC) is a predominant task for reasoning over event and temporal knowledge graphs, targeting the completion of knowledge with true, but missing information. In this context, tensor decomposition has shown great success to model interactions between entities and relations. Their effectiveness in static knowledge graph completion motivates us to introduce Time-LowFER, a family of parameter-efficient and time-aware extensions of the low-rank tensor factorization model LowFER. Noting several limitations in current approaches to represent time, we also propose a cycle-aware time-encoding scheme for time features, which is model-agnostic and offers a more generalized representation of time.  We implement our methods in a unified temporal knowledge graph embedding framework, with a focus on time-sensitive data processing. In the experiments, we show that our proposed methods perform on par or better than the state-of-the-art semantic matching models on three benchmark event knowledge graphs."
 
