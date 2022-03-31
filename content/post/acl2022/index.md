@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2 papers to be presented at ACL 2022"
+title: "5 papers to be presented at ACL 2022"
 subtitle: ""
 summary: ""
 authors: []
@@ -32,3 +32,6 @@ Five papers from Cora4NLP researchers have been accepted for publication at ACL 
 
 {{< cite page="/publication/acl2022-repl4nlp-chen-fewie" view="4" >}}
 {{< cite page="/publication/acl2022-nlppower-harbecke-f1" view="4" >}}
+{{< cite page="/publication/amin-acl-bionlp22-fewdeid" view="4" >}}
+{{< cite page="/publication/amin-acl-bionlp22-md19" view="4" >}}
+{{< cite page="/publication/dikeoulias-acl-repl4nlp-tlowfer" view="4" >}}
