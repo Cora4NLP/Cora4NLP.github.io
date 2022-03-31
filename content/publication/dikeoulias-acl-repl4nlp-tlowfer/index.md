@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "T2NER: Transformers Based Transfer Learning Framework for Named Entity Recognition"
-authors: [Saadullah Amin, Günter Neumann]
-date: 2021-04-01T00:00:00+00:00
+title: "Temporal Knowledge Graph Reasoning with Low-rank and Model-agnostic Representations"
+authors: [Ioannis Dikeoulias, Saadullah Amin, Günter Neumann]
+date: 2022-05-26T00:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-04-01T00:00:00+00:00
+publishDate: 2022-03-28T00:00:00+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2021-04-01T00:00:00+00:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of EACL-2021: Demo paper session"
-publication_short: "EACL 2021"
+publication: "Proceedings of the 7th Workshop on Representation Learning for NLP"
+publication_short: "ACL-RepL4NLP 2022"
 
-abstract: "Recent advances in deep transformer models have achieved state-of-the-art in several natural language processing (NLP) tasks, whereas named entity recognition (NER) has traditionally benefited from long-short term memory (LSTM) networks. In this work, we present a Transformers based Transfer Learning framework for Named Entity Recognition (T2NER) created in PyTorch for the task of NER with deep transformer models. The framework is built upon the Transformers library as the core modeling engine and supports several transfer learning scenarios from sequential transfer to domain adaptation, multi-task learning, and semi-supervised learning. It aims to bridge the gap between the algorithmic advances in these areas by combining them with the state-of-the-art in transformer models to provide a unified platform that is readily extensible and can be used for both the transfer learning research in NER, and for real-world applications. The framework is available at: https://github.com/suamin/t2ner."
+abstract: "Temporal knowledge graph completion (TKGC) is a predominant task for reasoning over event and temporal knowledge graphs, targeting the completion of knowledge with true, but missing information. In this context, tensor decomposition has shown great success to model interactions between entities and relations. Their effectiveness in static knowledge graph completion motivates us to introduce Time-LowFER, a family of parameter-efficient and time-aware extensions of the low-rank tensor factorization model LowFER. Noting several limitations in current approaches to represent time, we also propose a cycle-aware time-encoding scheme for time features, which is model-agnostic and offers a more generalized representation of time.  We implement our methods in a unified temporal knowledge graph embedding framework, with a focus on time-sensitive data processing. In the experiments, we show that our proposed methods perform on par or better than the state-of-the-art semantic matching models on three benchmark event knowledge graphs."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://aclanthology.org/2021.eacl-demos.25.pdf"
-url_code: "https://github.com/suamin/T2NER"
+url_pdf: "https://drive.google.com/file/d/1nz-gZr0YuCYIy-NJ-biyAbHMiAiVMIF9/view?usp=sharing"
+url_code: "https://github.com/iodike/ChronoKGE"
 url_dataset:
 url_poster:
 url_project:
