@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 7th Workshop on Representation Learning for NLP"
 publication_short: "ACL-RepL4NLP 2022"
 
-abstract: "Temporal knowledge graph completion (TKGC) is a predominant task for reasoning over event and temporal knowledge graphs, targeting the completion of knowledge with true, but missing information. In this context, tensor decomposition has shown great success to model interactions between entities and relations. Their effectiveness in static knowledge graph completion motivates us to introduce Time-LowFER, a family of parameter-efficient and time-aware extensions of the low-rank tensor factorization model LowFER. Noting several limitations in current approaches to represent time, we also propose a cycle-aware time-encoding scheme for time features, which is model-agnostic and offers a more generalized representation of time.  We implement our methods in a unified temporal knowledge graph embedding framework, with a focus on time-sensitive data processing. In the experiments, we show that our proposed methods perform on par or better than the state-of-the-art semantic matching models on three benchmark event knowledge graphs."
+abstract: "Temporal knowledge graph completion (TKGC) has become a popular approach for reasoning over the event and temporal knowledge graphs, targeting the completion of knowledge with accurate but missing information. In this context, tensor decomposition has successfully modeled interactions between entities and relations. Their effectiveness in static knowledge graph completion motivates us to introduce Time-LowFER, a family of parameter-efficient and time-aware extensions of the low-rank tensor factorization model LowFER. Noting several limitations in current approaches to represent time, we propose a cycle-aware time-encoding scheme for time features, which is model-agnostic and offers a more generalized representation of time. We implement our methods in a unified temporal knowledge graph embedding framework, focusing on time-sensitive data processing. The experiments show that our proposed methods perform on par or better than the state-of-the-art semantic matching models on two benchmarks."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://drive.google.com/file/d/1nz-gZr0YuCYIy-NJ-biyAbHMiAiVMIF9/view?usp=sharing"
+url_pdf: "https://arxiv.org/pdf/2204.04783.pdf"
 url_code: "https://github.com/iodike/ChronoKGE"
 url_dataset:
 url_poster:

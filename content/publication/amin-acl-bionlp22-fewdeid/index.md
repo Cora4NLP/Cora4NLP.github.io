@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Few-Shot Cross-lingual Transfer for Coarse-grained De-identification of Code-Mixed Clinical Texts"
-authors: [Saadullah Amin, Noon Pokaratsiri Goldstein, Morgan K. Wixted, Alejandro P. Garcia-Rudolph, Catalina Martínez-Costa, Günter Neumann]
+authors: [Saadullah Amin, Noon Pokaratsiri Goldstein, Morgan Kelly Wixted, Alejandro García-Rudolph, Catalina Martínez-Costa, Günter Neumann]
 date: 2022-05-26T00:00:00+00:00
 doi: ""
 
@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 21st Workshop on Biomedical Language Processing"
 publication_short: "ACL-BioNLP 2022"
 
-abstract: "Despite the advances in digital healthcare systems offering curated structured knowledge, much of the important information still lies in large-volumes of unlabeled and unstructured clinical texts. These texts, which often contain protected health information (PHI), are subject to information extraction tools for downstream applications, risking the identification of patients. Existing works in de-identification rely on using large-scale annotated corpora in English, which often are not reproducible in real-world multilingual settings. Pre-trained language models (LM) have shown great potential of transfer learning in low-resource settings. In this work, we showcase the adaptation of LMs in few-shot cross-lingual transfer in solving a real-world challenge—Spanish-Catalan code-mixed clinical notes de-identification in the stroke domain. We annotate a gold evaluation dataset to assess few-shot setting performance where only a few hundred labeled examples are used for training. Our model boosts the zero-shot F1-score from 73.7% to 91.2% in a multi-task setup using the MEDDOCAN corpus (Marimon et al., 2019) and our code-mixed domain-constrained few-shot corpus with Multilingual BERT (mBERT) (Devlin et al., 2019). Our best model achieves a human-evaluation F1-score of 97.2% when generalized to an out-of-sample test set."
+abstract: "Despite the advances in digital healthcare systems offering curated structured knowledge, much of the critical information still lies in large volumes of unlabeled and unstructured clinical texts. These texts, which often contain protected health information (PHI), are exposed to information extraction tools for downstream applications, risking patient identification. Existing works in de-identification rely on using large-scale annotated corpora in English, which often are not suitable in real-world multilingual settings. Pre-trained language models (LM) have shown great potential for cross-lingual transfer in low-resource settings. In this work, we empirically show the few-shot cross-lingual transfer property of LMs for named entity recognition (NER) and apply it to solve a low-resource and real-world challenge of code-mixed (Spanish-Catalan) clinical notes de-identification in the stroke domain. We annotate a gold evaluation dataset to assess few-shot setting performance where we only use a few hundred labeled examples for training. Our model improves the zero-shot F1-score from 73.7% to 91.2% on the gold evaluation set when adapting Multilingual BERT (mBERT) (Devlin et al., 2019) from the MEDDOCAN (Marimon et al., 2019) corpus with our few-shot cross-lingual target corpus. When generalized to an out-of-sample test set, the best model achieves a human-evaluation F1-score of 97.2%."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://drive.google.com/file/d/1ObHumDgKSfFs_Ufj271rFIoJMSYwnpGz/view?usp=sharing"
+url_pdf: "https://arxiv.org/pdf/2204.04775.pdf"
 url_code:
 url_dataset:
 url_poster:
