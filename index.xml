@@ -51,8 +51,8 @@ Cite
 &lt;span >
 &lt;a href="https://cora4nlp.github.io/author/saadullah-amin/">Saadullah Amin&lt;/a>&lt;/span>, &lt;span >
 &lt;a href="https://cora4nlp.github.io/author/noon-pokaratsiri-goldstein/">Noon Pokaratsiri Goldstein&lt;/a>&lt;/span>, &lt;span >
-&lt;a href="https://cora4nlp.github.io/author/morgan-k.-wixted/">Morgan K. Wixted&lt;/a>&lt;/span>, &lt;span >
-&lt;a href="https://cora4nlp.github.io/author/alejandro-p.-garcia-rudolph/">Alejandro P. Garcia-Rudolph&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/morgan-kelly-wixted/">Morgan Kelly Wixted&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/alejandro-garcia-rudolph/">Alejandro García-Rudolph&lt;/a>&lt;/span>, &lt;span >
 &lt;a href="https://cora4nlp.github.io/author/catalina-martinez-costa/">Catalina Martínez-Costa&lt;/a>&lt;/span>, &lt;span >
 &lt;a href="https://cora4nlp.github.io/author/gunter-neumann/">Günter Neumann&lt;/a>&lt;/span>
 &lt;/span>
@@ -60,7 +60,7 @@ Cite
 &lt;a href="https://cora4nlp.github.io/publication/amin-acl-bionlp22-fewdeid/">Few-Shot Cross-lingual Transfer for Coarse-grained De-identification of Code-Mixed Clinical Texts&lt;/a>.
 ACL-BioNLP 2022.
 &lt;p>
-&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://drive.google.com/file/d/1ObHumDgKSfFs_Ufj271rFIoJMSYwnpGz/view?usp=sharing" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2204.04775.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
@@ -83,7 +83,7 @@ Cite
 &lt;a href="https://cora4nlp.github.io/publication/amin-acl-bionlp22-md19/">MedDistant19: A Challenging Benchmark for Distantly Supervised Biomedical Relation Extraction&lt;/a>.
 ACL-BioNLP 2022.
 &lt;p>
-&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://drive.google.com/file/d/1SoEOEndaAYX3kJxpb7Y_SfQUSGCZo6hp/view?usp=sharing" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2204.04779.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
@@ -107,7 +107,7 @@ Code
 &lt;a href="https://cora4nlp.github.io/publication/dikeoulias-acl-repl4nlp-tlowfer/">Temporal Knowledge Graph Reasoning with Low-rank and Model-agnostic Representations&lt;/a>.
 ACL-RepL4NLP 2022.
 &lt;p>
-&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://drive.google.com/file/d/1nz-gZr0YuCYIy-NJ-biyAbHMiAiVMIF9/view?usp=sharing" target="_blank" rel="noopener">
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2204.04783.pdf" target="_blank" rel="noopener">
 PDF
 &lt;/a>
 &lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
