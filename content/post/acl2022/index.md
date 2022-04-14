@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Four papers from Cora4NLP researchers have been accepted for publication at ACL 2022, the 60th Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Dublin, Ireland, from May 22nd through May 27th, 2022. One paper is on evaluating pre-trained encoders on the task of low-resource NER across several English and German datasets, the other analyzes relation classification evaluation and suggests that using F1 weightings other than micro-F1 tells us much more about model performance, e.g. on imbalanced datasets. The third paper is about cross-lingual transfer learning for de-identification of clinical text, and the final paper addresses the tsak of temporal knowledge graph reasoning.
+Four papers from Cora4NLP researchers have been accepted for publication at ACL 2022, the 60th Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Dublin, Ireland, from May 22nd through May 27th, 2022. One paper is on evaluating pre-trained encoders on the task of low-resource NER across several English and German datasets, the other analyzes relation classification evaluation and suggests that using F1 weightings other than micro-F1 tells us much more about model performance, e.g. on imbalanced datasets. The third paper is about cross-lingual transfer learning for de-identification of clinical text, and the final paper addresses the task of temporal knowledge graph reasoning.
 
 {{< cite page="/publication/acl2022-repl4nlp-chen-fewie" view="4" >}}
 {{< cite page="/publication/acl2022-nlppower-harbecke-f1" view="4" >}}
