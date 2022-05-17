@@ -3,7 +3,7 @@
 
 title: "Temporal Knowledge Graph Reasoning with Low-rank and Model-agnostic Representations"
 authors: [Ioannis Dikeoulias, Saadullah Amin, Günter Neumann]
-date: 2022-05-26T00:00:00+00:00
+date: 2022-05-17T00:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/pdf/2204.04783.pdf"
+url_pdf: "https://aclanthology.org/2022.repl4nlp-1.12.pdf"
 url_code: "https://github.com/iodike/ChronoKGE"
 url_dataset:
 url_poster:
