@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""https://aclanthology.org/2021.emnlp-demo.4.pdf
+url_pdf: "https://aclanthology.org/2021.emnlp-demo.4.pdf"
 url_code: "https://github.com/DFKI-MLT/TransIns"
 url_dataset:
 url_poster:
