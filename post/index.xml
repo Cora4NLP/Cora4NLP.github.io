@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Cora4NLP</title><link>https://cora4nlp.github.io/post/</link><atom:link href="https://cora4nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Cora4NLP 2020-2022</copyright><lastBuildDate>Thu, 31 Mar 2022 09:24:01 +0200</lastBuildDate><image><url>https://cora4nlp.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url><title>Posts</title><link>https://cora4nlp.github.io/post/</link></image><item><title>4 papers to be presented at ACL 2022</title><link>https://cora4nlp.github.io/post/acl2022/</link><pubDate>Thu, 31 Mar 2022 09:24:01 +0200</pubDate><guid>https://cora4nlp.github.io/post/acl2022/</guid><description>&lt;p>Four papers from Cora4NLP researchers have been accepted for publication at ACL 2022, the 60th Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Dublin, Ireland, from May 22nd through May 27th, 2022. One paper is on evaluating pre-trained encoders on the task of low-resource NER across several English and German datasets, the other analyzes relation classification evaluation and suggests that using F1 weightings other than micro-F1 tells us much more about model performance, e.g. on imbalanced datasets. The third paper is about cross-lingual transfer learning for de-identification of clinical text, and the final paper addresses the task of temporal knowledge graph reasoning.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Cora4NLP</title><link>https://cora4nlp.github.io/post/</link><atom:link href="https://cora4nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Cora4NLP 2020-2022</copyright><lastBuildDate>Thu, 31 Mar 2022 09:24:01 +0200</lastBuildDate><image><url>https://cora4nlp.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url><title>Posts</title><link>https://cora4nlp.github.io/post/</link></image><item><title>1 paper to be presented at COLING 2022</title><link>https://cora4nlp.github.io/post/coling2022/</link><pubDate>Thu, 31 Mar 2022 09:24:01 +0200</pubDate><guid>https://cora4nlp.github.io/post/coling2022/</guid><description>&lt;p>One paper from Cora4NLP researchers has been accepted for oral presentation at COLING 2022, the 29th International Conference on Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Gyeongju, Korea, from Oct 12th - Oct 17th, 2022. Saadullah Amin will present the paper &amp;ldquo;MedDistant19: Towards an Accurate Benchmark for Broad-Coverage Biomedical Relation Extraction&amp;rdquo;.&lt;/p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="https://cora4nlp.github.io/author/saadullah-amin/">Saadullah Amin&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/pasquale-minervini/">Pasquale Minervini&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/david-chang/">David Chang&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/pontus-stenetorp/">Pontus Stenetorp&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/gunter-neumann/">Günter Neumann&lt;/a>&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="https://cora4nlp.github.io/publication/amin-coling2022-md19/">MedDistant19: Towards an Accurate Benchmark for Broad-Coverage Biomedical Relation Extraction&lt;/a>.
+COLING 2022.
+&lt;p>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2204.04779.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/amin-coling2022-md19/cite.bib">
+Cite
+&lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/suamin/MedDistant19" target="_blank" rel="noopener">
+Code
+&lt;/a>
+&lt;/p>
+&lt;/div></description></item><item><title>4 papers to be presented at ACL 2022</title><link>https://cora4nlp.github.io/post/acl2022/</link><pubDate>Thu, 31 Mar 2022 09:24:01 +0200</pubDate><guid>https://cora4nlp.github.io/post/acl2022/</guid><description>&lt;p>Four papers from Cora4NLP researchers have been accepted for publication at ACL 2022, the 60th Annual Meeting of the Association for Computational Linguistics. The conference is planned to be a hybrid meeting and will take place in Dublin, Ireland, from May 22nd through May 27th, 2022. One paper is on evaluating pre-trained encoders on the task of low-resource NER across several English and German datasets, the other analyzes relation classification evaluation and suggests that using F1 weightings other than micro-F1 tells us much more about model performance, e.g. on imbalanced datasets. The third paper is about cross-lingual transfer learning for de-identification of clinical text, and the final paper addresses the task of temporal knowledge graph reasoning.&lt;/p>
 &lt;p>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
