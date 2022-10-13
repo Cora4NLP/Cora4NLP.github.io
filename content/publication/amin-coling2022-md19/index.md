@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/pdf/2204.04779.pdf"
+url_pdf: "https://aclanthology.org/2022.coling-1.198.pdf"
 url_code: "https://github.com/pminervini/meddistant-baselines"
 url_dataset: "https://github.com/suamin/MedDistant19"
 url_poster:
