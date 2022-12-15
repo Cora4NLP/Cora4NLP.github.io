@@ -12,12 +12,18 @@
 &lt;a href="https://cora4nlp.github.io/publication/emnlp2022-chen-meffiprompt/">Multilingual Relation Classification via Efficient and Effective Prompting&lt;/a>.
 EMNLP 2022.
 &lt;p>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2210.13838" target="_blank" rel="noopener">
+PDF
+&lt;/a>
 &lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
 data-filename="/publication/emnlp2022-chen-meffiprompt/cite.bib">
 Cite
 &lt;/button>
 &lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/DFKI-NLP/meffi-prompt" target="_blank" rel="noopener">
 Code
+&lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.48550/arXiv.2210.13838" target="_blank" rel="noopener">
+DOI
 &lt;/a>
 &lt;/p>
 &lt;/div>
