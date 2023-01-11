@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "MENYO-20k: A Multi-domain English-Yorùbá Corpus for Machine Translation and Domain Adaptation"
-authors: [David I. Adelani, Dana Ruiter, Jesujoba O. Alabi, Damilola Adebonojo, Adesina Ayeni, Mofe Adeyemi, Ayodele Awokoya, Cristina España-Bonet]
+authors: [David I. Adelani, Dana Ruiter, Jesujoba O. Alabi, Damilola Adebonojo, Adesina Ayeni, Mofe Adeyemi, Ayodele Awokoya, cristina-espana]
 date: 2021-03-15T00:00:00+00:00
 doi: ""
 

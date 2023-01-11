@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Annotating events and entities in dialogue"
-authors: [Tatiana Anikina and Ivana Kruijff-Korbayova]
+authors: ["Tatiana Anikina", "Ivana Kruijff-Korbayova"]
 date: 2021-09-30T00:00:00+00:00
 doi: ""
 

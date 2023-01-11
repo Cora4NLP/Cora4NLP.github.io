@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Integrating Unsupervised Data Generation into Self-Supervised Neural Machine Translation for Low-Resource Languages"
-authors: [Dana Ruiter, Dietrich Klakow, Josef van Genabith, Cristina España-Bonet]
+authors: [Dana Ruiter, Dietrich Klakow, Josef van Genabith, cristina-espana]
 date: 2021-08-17T00:00:00+00:00
 doi: ""
 
