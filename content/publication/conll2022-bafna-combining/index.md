@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Combining Noisy Semantic Signals with Orthographic Cues: Cognate Induction for the Indic Dialect Continuum"
-authors: ["Niyati Bafna", "Josef van Genabith", "Cristina Espana-Bonet", "Zdenek Zabokrtsky"]
+authors: ["Niyati Bafna", "Josef van Genabith", "Cristina España i Bonet", "Zdeněk Žabokrtský"]
 date: 2022-12-07T10:33:03+02:00
 doi:
 
