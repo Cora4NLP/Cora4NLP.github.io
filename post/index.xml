@@ -12,6 +12,9 @@
 &lt;a href="https://cora4nlp.github.io/publication/conll2022-bafna-combining/">Combining Noisy Semantic Signals with Orthographic Cues: Cognate Induction for the Indic Dialect Continuum&lt;/a>.
 CoNLL 2022.
 &lt;p>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aclanthology.org/2022.conll-1.9.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
 &lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
 data-filename="/publication/conll2022-bafna-combining/cite.bib">
 Cite
