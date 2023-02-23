@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cora4NLP</title><link>https://cora4nlp.github.io/</link><atom:link href="https://cora4nlp.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Cora4NLP</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Cora4NLP 2020-2023</copyright><lastBuildDate>Wed, 07 Dec 2022 10:33:03 +0200</lastBuildDate><image><url>https://cora4nlp.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url><title>Cora4NLP</title><link>https://cora4nlp.github.io/</link></image><item><title>Combining Noisy Semantic Signals with Orthographic Cues: Cognate Induction for the Indic Dialect Continuum</title><link>https://cora4nlp.github.io/publication/conll2022-bafna-combining/</link><pubDate>Wed, 07 Dec 2022 10:33:03 +0200</pubDate><guid>https://cora4nlp.github.io/publication/conll2022-bafna-combining/</guid><description/></item><item><title>1 paper to be presented at CoNLL 2022</title><link>https://cora4nlp.github.io/post/conll2022/</link><pubDate>Tue, 06 Dec 2022 09:24:01 +0200</pubDate><guid>https://cora4nlp.github.io/post/conll2022/</guid><description>&lt;p>One paper from Cora4NLP authors has been accepted for publication at &lt;a href="https://conll.org/2022" target="_blank" rel="noopener">CoNLL 2022&lt;/a>, the SIGNLL Conference on Computational Natural Language Learning. The conference is co-located with EMNLP 2022 and planned to be a hybrid meeting. It will take place in Abu Dhabi, from Dec 7th to Dec 8th, 2022. The paper introduces &lt;a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-4839" target="_blank" rel="noopener">HinDialect&lt;/a>, a new corpus of 26 Hindi dialects, and presents a new method for cognate induction with low-resource languages.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cora4NLP</title><link>https://cora4nlp.github.io/</link><atom:link href="https://cora4nlp.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Cora4NLP</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Cora4NLP 2020-2023</copyright><lastBuildDate>Thu, 23 Feb 2023 08:24:01 +0200</lastBuildDate><image><url>https://cora4nlp.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url><title>Cora4NLP</title><link>https://cora4nlp.github.io/</link></image><item><title>2 papers accepted at EACL 2023</title><link>https://cora4nlp.github.io/post/eacl2023/</link><pubDate>Thu, 23 Feb 2023 08:24:01 +0200</pubDate><guid>https://cora4nlp.github.io/post/eacl2023/</guid><description>&lt;p>We are happy to announce that two papers from Cora4NLP members have been accepted for publication at the &lt;a href="https://2023.eacl.org/" target="_blank" rel="noopener">17th Conference of the European Chapter of the Association for Computational Linguistics&lt;/a>. The conference will take place from May2nd to May 6th, 2023.&lt;/p>
+&lt;p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="https://cora4nlp.github.io/author/sonal-sannigrahi/">Sonal Sannigrahi&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/cristina-espana-i-bonet/">Cristina España i Bonet&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/josef-van-genabith/">Josef van Genabith&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="https://cora4nlp.github.io/publication/sannigrahi-etal-eacl-2023-multilingual/">Are the Best Multilingual Document Embeddings Simply Based on Sentence Embeddings?&lt;/a>.
+EACL 2023.
+&lt;p>
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/sannigrahi-etal-eacl-2023-multilingual/cite.bib">
+Cite
+&lt;/button>
+&lt;/p>
+&lt;/div>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="https://cora4nlp.github.io/author/yusser-al-ghussin/">Yusser Al Ghussin&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/jingyi-zhang/">Jingyi Zhang&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/josef-van-genabith/">Josef van Genabith&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="https://cora4nlp.github.io/publication/ghussin-etal-eacl-2023-exploring/">Exploring Paracrawl for Document-level Neural Machine Translation&lt;/a>.
+EACL 2023.
+&lt;p>
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/ghussin-etal-eacl-2023-exploring/cite.bib">
+Cite
+&lt;/button>
+&lt;/p>
+&lt;/div>
+&lt;/p></description></item><item><title>Are the Best Multilingual Document Embeddings Simply Based on Sentence Embeddings?</title><link>https://cora4nlp.github.io/publication/sannigrahi-etal-eacl-2023-multilingual/</link><pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate><guid>https://cora4nlp.github.io/publication/sannigrahi-etal-eacl-2023-multilingual/</guid><description/></item><item><title>Exploring Paracrawl for Document-level Neural Machine Translation</title><link>https://cora4nlp.github.io/publication/ghussin-etal-eacl-2023-exploring/</link><pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate><guid>https://cora4nlp.github.io/publication/ghussin-etal-eacl-2023-exploring/</guid><description/></item><item><title>Combining Noisy Semantic Signals with Orthographic Cues: Cognate Induction for the Indic Dialect Continuum</title><link>https://cora4nlp.github.io/publication/conll2022-bafna-combining/</link><pubDate>Wed, 07 Dec 2022 10:33:03 +0200</pubDate><guid>https://cora4nlp.github.io/publication/conll2022-bafna-combining/</guid><description/></item><item><title>1 paper to be presented at CoNLL 2022</title><link>https://cora4nlp.github.io/post/conll2022/</link><pubDate>Tue, 06 Dec 2022 09:24:01 +0200</pubDate><guid>https://cora4nlp.github.io/post/conll2022/</guid><description>&lt;p>One paper from Cora4NLP authors has been accepted for publication at &lt;a href="https://conll.org/2022" target="_blank" rel="noopener">CoNLL 2022&lt;/a>, the SIGNLL Conference on Computational Natural Language Learning. The conference is co-located with EMNLP 2022 and planned to be a hybrid meeting. It will take place in Abu Dhabi, from Dec 7th to Dec 8th, 2022. The paper introduces &lt;a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-4839" target="_blank" rel="noopener">HinDialect&lt;/a>, a new corpus of 26 Hindi dialects, and presents a new method for cognate induction with low-resource languages.&lt;/p>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
@@ -78,7 +116,7 @@ DOI
 &lt;/a>
 &lt;/p>
 &lt;/div>
-&lt;/p></description></item><item><title>1 paper to be presented at AACL-IJCNLP 2022</title><link>https://cora4nlp.github.io/post/aacl-ijcnlp2022/</link><pubDate>Fri, 14 Oct 2022 08:24:01 +0200</pubDate><guid>https://cora4nlp.github.io/post/aacl-ijcnlp2022/</guid><description>&lt;p>One paper from DFKI-NLP authors has been accepted for publication at the &lt;a href="https://ui.adsabs.harvard.edu/WIESP/" target="_blank" rel="noopener">Workshop on Information Extraction from Scientific Publications (WIESP)&lt;/a>. The workshop will be held at &lt;a href="https://www.aacl2022.org/" target="_blank" rel="noopener">AACL-IJCNLP 2022&lt;/a>, the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, which will take place as an online-only event from Nov. 20 to Nov. 23, 2022. The paper proposes a new method for argument mining in full-text scientific documents by combining argumentative discourse unit recognition with relation extraction.&lt;/p>
+&lt;/p></description></item><item><title>1 paper to be presented at AACL-IJCNLP 2022</title><link>https://cora4nlp.github.io/post/aacl-ijcnlp2022/</link><pubDate>Fri, 14 Oct 2022 08:24:01 +0200</pubDate><guid>https://cora4nlp.github.io/post/aacl-ijcnlp2022/</guid><description>&lt;p>One paper from Cora4NLP authors has been accepted for publication at the &lt;a href="https://ui.adsabs.harvard.edu/WIESP/" target="_blank" rel="noopener">Workshop on Information Extraction from Scientific Publications (WIESP)&lt;/a>. The workshop will be held at &lt;a href="https://www.aacl2022.org/" target="_blank" rel="noopener">AACL-IJCNLP 2022&lt;/a>, the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, which will take place as an online-only event from Nov. 20 to Nov. 23, 2022. The paper proposes a new method for argument mining in full-text scientific documents by combining argumentative discourse unit recognition with relation extraction.&lt;/p>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
