@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Anaphora Resolution in Dialogue: System Description ({CODI}-{CRAC} 2022 Shared Task)"
-authors: [Tatiana Anikina and Natalia Skachkova and Joseph Renner and Priyansh Trivedi]
+title: "Anaphora Resolution in Dialogue: System Description (CODI-CRAC 2022 Shared Task)"
+authors: ["Tatiana Anikina", "Natalia Skachkova", "Joseph Renner", "Priyansh Trivedi"]
 date: 2022-10-12T00:00:00+00:00
 doi: ""
 
