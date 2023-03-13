@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain"
-authors: [Leonhard Hennig, Phuc Tran Truong, Aleksandra Gabryszak]
-date: 2021-09-07T00:00:00+00:00
+title: "Temporal Knowledge Graph Reasoning with Low-rank and Model-agnostic Representations"
+authors: [Ioannis Dikeoulias, Saadullah Amin, Günter Neumann]
+date: 2022-05-17T00:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-08-11T00:00:00+00:00
+publishDate: 2022-03-28T00:00:00+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2021-08-11T00:00:00+00:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021): Short Papers"
-publication_short: "KONVENS 2021"
+publication: "Proceedings of the 7th Workshop on Representation Learning for NLP"
+publication_short: "ACL-RepL4NLP 2022"
 
-abstract: "We present MobIE, a German-language dataset, which is human-annotated with 20 coarse- and fine-grained entity types and entity linking information for geographically linkable entities. The dataset consists of 3,232 social media texts and traffic reports with 91K tokens, and contains 20.5K annotated entities, 13.1K of which are linked to a knowledge base. A subset of the dataset is human-annotated with seven mobility-related, n-ary relation types, while the remaining documents are annotated using a weakly-supervised labeling approach implemented with the Snorkel framework. To the best of our knowledge, this is the first German-language dataset that combines annotations for NER, EL and RE, and thus can be used for joint and multi-task learning of these fundamental information extraction tasks. We make MobIE public at https://github.com/dfki-nlp/mobie."
+abstract: "Temporal knowledge graph completion (TKGC) has become a popular approach for reasoning over the event and temporal knowledge graphs, targeting the completion of knowledge with accurate but missing information. In this context, tensor decomposition has successfully modeled interactions between entities and relations. Their effectiveness in static knowledge graph completion motivates us to introduce Time-LowFER, a family of parameter-efficient and time-aware extensions of the low-rank tensor factorization model LowFER. Noting several limitations in current approaches to represent time, we propose a cycle-aware time-encoding scheme for time features, which is model-agnostic and offers a more generalized representation of time. We implement our methods in a unified temporal knowledge graph embedding framework, focusing on time-sensitive data processing. The experiments show that our proposed methods perform on par or better than the state-of-the-art semantic matching models on two benchmarks."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,9 +36,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://github.com/DFKI-NLP/MobIE/blob/master/Konvens_2021_MobIE_Corpus.pdf"
-url_code: "https://github.com/DFKI-NLP/MobIE/"
-url_dataset: "https://github.com/DFKI-NLP/MobIE/"
+url_pdf: "https://aclanthology.org/2022.repl4nlp-1.12.pdf"
+url_code: "https://github.com/iodike/ChronoKGE"
+url_dataset:
 url_poster:
 url_project:
 url_slides:
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [CORA4NLP]
+projects: [CORA4NLP, Precise4Q]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

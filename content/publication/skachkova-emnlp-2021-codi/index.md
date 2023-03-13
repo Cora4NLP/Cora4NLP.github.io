@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Anaphora Resolution in Dialogue: Cross-Team Analysis of the DFKI-TalkingRobots Team Submissions for the CODI-CRAC 2021 Shared-Task"
-authors: [Natalia Skachkova and Cennet Oguz and Tatiana Anikina and Siyu Tao and Sharmila Upadhyaya and Ivana Kruijff-Korbayova]
+authors: ["Natalia Skachkova", "Cennet Oguz", "Tatiana Anikina", "Siyu Tao", "Sharmila Upadhyaya", "Ivana Kruijff-Korbayova"]
 date: 2021-11-18T00:00:00+00:00
 doi: ""
 

@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data"
-authors: [N. Rethmeier, I. Augenstein]
-date: 2020-10-21T00:00:00+00:00
+title: "Why only Micro-$F_1$? Class Weighting of Measures for Relation Classification"
+authors: [David Harbecke, Yuxuan Chen, Leonhard Hennig, Christoph Alt]
+date: 2022-05-26T00:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-21T00:00:00+00:00
+publishDate: 2022-03-28T00:00:00+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,9 @@ publishDate: 2020-10-21T00:00:00+00:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: "arXiv"
-
-abstract: "For natural language processing 'text-to-text' tasks, the prevailing approaches heavily rely on pretraining large self-supervised models on increasingly larger 'task-external' data. Transfer learning from high-resource pretraining works well, but research has focused on settings with very large data and compute requirements, while the potential of efficient low-resource learning, without large 'task-external' pretraining, remains under-explored. In this work, we evaluate against three core challenges for resource efficient learning. Namely, we analyze: (1) pretraining data (X) efficiency; (2) zero to few-shot label (Y) efficiency; and (3) long-tail generalization, since long-tail preservation has been linked to algorithmic fairness and because data in the tail is limited by definition. To address these challenges, we propose a data and compute efficient self-supervised, contrastive text encoder, pretrained on 60MB of 'task-internal' text data, and compare it to RoBERTa, which was pretrained on 160GB of 'task-external' text. We find our method outperforms RoBERTa, while pretraining and fine-tuning in a 1/5th of RoBERTa's fine-tuning time."
+publication: "Proceedings of the 1st Workshop on Efficient Benchmarking in NLP"
+publication_short: "ACL-NLPPower 2022"
+abstract: "Relation classification models are conventionally evaluated using only a single measure, e.g., micro-F1, macro-F1 or AUC. In this work, we analyze weighting schemes, such as micro and macro, for imbalanced datasets. We introduce a framework for weighting schemes, where existing schemes are extremes, and two new intermediate schemes. We show that reporting results of different weighting schemes better highlights strengths and weaknesses of a model."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/pdf/2010.01061"
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:

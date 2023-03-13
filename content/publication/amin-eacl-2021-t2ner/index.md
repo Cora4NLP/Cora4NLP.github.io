@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://aclanthology.org/2021.eacl-demos.25.pdf"
-url_code:
+url_code: "https://github.com/suamin/T2NER"
 url_dataset:
 url_poster:
 url_project:
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [CORA4NLP]
+projects: [CORA4NLP, Precise4Q]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

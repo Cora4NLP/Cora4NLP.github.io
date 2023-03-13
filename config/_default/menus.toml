@@ -8,10 +8,10 @@
 #  url = "/"
 #  weight = 10
 
-#[[main]]
-#  name = "News"
-#  url = "post"
-#  weight = 20
+[[main]]
+  name = "News"
+  url = "#news"
+  weight = 20
 
 [[main]]
   name = "People"
@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Publications"
-  url = "publication"
+  url = "#publications"
   weight = 50
 
 [[main]]

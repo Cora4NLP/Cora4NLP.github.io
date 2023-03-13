@@ -3,7 +3,7 @@
 title: Christoph Alt
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Senior Researcher
@@ -70,4 +70,4 @@ user_groups:
 - Alumni
 ---
 
-I am a postdoctoral (senior) researcher at the [German Research Center for AI (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin. My goal is to solve complex natural language understanding problems with limited (labeled) data, e.g., via transfer-learning, multi-task learning, few- and zero-shot learning.
+Christoph is a postdoctoral researcher at Humboldt University of Berlin and part of the Cluster Science of Intelligence. He received his Bachelor’s degree in Electrical Engineering from the University of Applied Sciences Munich and his Master’s degree in Computer Engineering from the Technical University of Berlin. For his doctoral degree in Computer Science at Technical University of Berlin and the German Research Center for AI (DFKI), he studied the generalizability and data efficiency of neural-network-based natural language processing (NLP) approaches, in particular, how to learn from limited amounts of labeled data and transfer linguistic knowledge between related NLP tasks.
