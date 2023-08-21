@@ -80,12 +80,18 @@ Code
 &lt;/span>
 (2023).
 &lt;a href="https://cora4nlp.github.io/publication/sannigrahi-etal-eacl-2023-multilingual/">Are the Best Multilingual Document Embeddings Simply Based on Sentence Embeddings?&lt;/a>.
-EACL 2023.
+EACL 2023 Findings.
 &lt;p>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aclanthology.org/2023.findings-eacl.174.pdf" target="_blank" rel="noopener">
+PDF
+&lt;/a>
 &lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
 data-filename="/publication/sannigrahi-etal-eacl-2023-multilingual/cite.bib">
 Cite
 &lt;/button>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aclanthology.org/2023.findings-eacl.174.mp4" target="_blank" rel="noopener">
+Video
+&lt;/a>
 &lt;/p>
 &lt;/div>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
