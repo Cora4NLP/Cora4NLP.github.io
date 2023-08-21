@@ -7,7 +7,7 @@ date: 2023-08-17T10:33:03+02:00
 #doi: "10.48550/arXiv.2308"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-08-17T10:33:03+02:00
+publishDate: 2023-08-17T12:33:03+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
