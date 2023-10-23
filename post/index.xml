@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Cora4NLP</title><link>https://cora4nlp.github.io/post/</link><atom:link href="https://cora4nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Cora4NLP 2020-2023</copyright><lastBuildDate>Thu, 17 Aug 2023 09:24:01 +0200</lastBuildDate><image><url>https://cora4nlp.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url><title>Posts</title><link>https://cora4nlp.github.io/post/</link></image><item><title>1 paper to be presented at KONVENS 2023</title><link>https://cora4nlp.github.io/post/konvens2023/</link><pubDate>Thu, 17 Aug 2023 09:24:01 +0200</pubDate><guid>https://cora4nlp.github.io/post/konvens2023/</guid><description>&lt;p>One paper from Cora4NLP researchers has been accepted for publication at KONVENS 2023, the 19th German Conference on Natural Language Processing. The conference will take place in Ingolstadt, Germany, from Sep 18th to Sep 22nd, 2023. The paper presents an approach using machine translation to translate English data to German to train a transformer-based factuality detection model for clinical data, where supervised data is usually very scarce due to its sensitive nature and privacy concerns.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Cora4NLP</title><link>https://cora4nlp.github.io/post/</link><atom:link href="https://cora4nlp.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Cora4NLP 2020-2023</copyright><lastBuildDate>Mon, 23 Oct 2023 09:24:01 +0200</lastBuildDate><image><url>https://cora4nlp.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url><title>Posts</title><link>https://cora4nlp.github.io/post/</link></image><item><title>1 paper to be presented at EMNLP 2023</title><link>https://cora4nlp.github.io/post/emnlp2023/</link><pubDate>Mon, 23 Oct 2023 09:24:01 +0200</pubDate><guid>https://cora4nlp.github.io/post/emnlp2023/</guid><description>&lt;p>One paper from DFKI-NLP authors has been accepted for publication as a Findings paper at EMNLP 2023, the 2023 Conference on Empirical Methods in Natural Language Processing. The conference is planned to be a hybrid meeting and will take place in Singapore, from Dec 6th to Dec 10th, 2023. The paper introduces the InterroLang framework for dialog-based explanations of NLP models and datasets. It adapts the conversational explanation framework TalkToModel to the NLP domain, and add new NLP-specific operations such as free-text rationalizations. The paper is a result of joint work with the &lt;a href="https://xaines.dfki.de" target="_blank" rel="noopener">XAINES project&lt;/a>, which focuses on narrative XAI methods.&lt;/p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="https://cora4nlp.github.io/author/nils-feldhus/">Nils Feldhus&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/qianli-wang/">Qianli Wang&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/tatiana-anikina/">Tatiana Anikina&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/sahil-chopra/">Sahil Chopra&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/cennet-oguz/">Cennet Oguz&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cora4nlp.github.io/author/sebastian-moller/">Sebastian Möller&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="https://cora4nlp.github.io/publication/feldhus-emnlp2023-interrolang/">InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations&lt;/a>.
+EMNLP Findings 2023.
+&lt;p>
+&lt;button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+data-filename="/publication/feldhus-emnlp2023-interrolang/cite.bib">
+Cite
+&lt;/button>
+&lt;/p>
+&lt;/div></description></item><item><title>1 paper to be presented at KONVENS 2023</title><link>https://cora4nlp.github.io/post/konvens2023/</link><pubDate>Thu, 17 Aug 2023 09:24:01 +0200</pubDate><guid>https://cora4nlp.github.io/post/konvens2023/</guid><description>&lt;p>One paper from Cora4NLP researchers has been accepted for publication at KONVENS 2023, the 19th German Conference on Natural Language Processing. The conference will take place in Ingolstadt, Germany, from Sep 18th to Sep 22nd, 2023. The paper presents an approach using machine translation to translate English data to German to train a transformer-based factuality detection model for clinical data, where supervised data is usually very scarce due to its sensitive nature and privacy concerns.&lt;/p>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
 &lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
 &lt;span class="article-metadata li-cite-author">
