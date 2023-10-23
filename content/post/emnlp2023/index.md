@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-One paper from DFKI-NLP authors has been accepted for publication as a Findings paper at EMNLP 2023, the 2023 Conference on Empirical Methods in Natural Language Processing. The conference is planned to be a hybrid meeting and will take place in Singapore, from Dec 6th to Dec 10th, 2023. The paper introduces the InterroLang framework for dialog-based explanations of NLP models and datasets. It adapts the conversational explanation framework TalkToModel to the NLP domain, and add new NLP-specific operations such as free-text rationalizations. The paper is a result of joint work with the [XAINES project](https://xaines.dfki.de), which focuses on narrative XAI methods.
+One paper from DFKI-NLP authors has been accepted for publication as a Findings paper at [EMNLP 2023](https://2023.emnlp.org/), the 2023 Conference on Empirical Methods in Natural Language Processing. The conference is planned to be a hybrid meeting and will take place in Singapore, from Dec 6th to Dec 10th, 2023. The paper introduces the InterroLang framework for dialog-based explanations of NLP models and datasets. It adapts the conversational explanation framework TalkToModel to the NLP domain, and add new NLP-specific operations such as free-text rationalizations. The paper is a result of joint work with the [XAINES project](https://xaines.dfki.de), which focuses on narrative XAI methods.
 
 {{< cite page="/publication/feldhus-emnlp2023-interrolang" view="4" >}}
