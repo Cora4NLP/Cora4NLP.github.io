@@ -1,12 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-
-
-
-
-
-title: "Multi-Head Highly Parallelized {LSTM} Decoder for Neural Machine Translation"
+title: "Multi-Head Highly Parallelized LSTM Decoder for Neural Machine Translation"
 authors: [Hongfei Xu, Qiuhui Liu, Josef van Genabith, Deyi Xiong, Meng Zhang]
 date: 2021-08-02T00:00:00+00:00
 doi: ""

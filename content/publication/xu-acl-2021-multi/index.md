@@ -6,7 +6,7 @@
 
 
 
-title: "Modeling Task-Aware {MIMO} Cardinality for Efficient Multilingual Neural Machine Translation"
+title: "Modeling Task-Aware MIMO Cardinality for Efficient Multilingual Neural Machine Translation"
 authors: [Hongfei Xu, Qiuhui Liu, Josef van Genabith, Deyi Xiong]
 date: 2021-08-02T00:00:00+00:00
 doi: ""
