@@ -62,6 +62,9 @@ Cite
 &lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/DFKI-NLP/MultiTACRED" target="_blank" rel="noopener">
 Code
 &lt;/a>
+&lt;a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://huggingface.co/datasets/DFKI-SLT/multitacred" target="_blank" rel="noopener">
+Dataset
+&lt;/a>
 &lt;/p>
 &lt;/div>
 &lt;div class="pub-list-item" style="margin-bottom: 1rem">
